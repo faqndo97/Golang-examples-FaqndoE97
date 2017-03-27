@@ -8,16 +8,11 @@ This repo contain my examples in Go, which are based on the book: **The little g
  * [Effective Go](https://golang.org/doc/effective_go.html)
 
 
-----------
+ The examples are about:
 
-
-The examples are about:
-:     **1-** imports
-:     **2-** variables and his declarations
-:     **3-** functions declarations
-
-
-----------
+  - Imports
+  - Variables and his declarations
+  - Functions declaration
 
 
 For this examples I have:
